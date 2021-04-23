@@ -1,7 +1,0 @@
-C:\Users\Slava\Desktop\Archiver\Archiver\Archiver\bin\Debug\Archiver.exe.config
-C:\Users\Slava\Desktop\Archiver\Archiver\Archiver\bin\Debug\Archiver.exe
-C:\Users\Slava\Desktop\Archiver\Archiver\Archiver\bin\Debug\Archiver.pdb
-C:\Users\Slava\Desktop\Archiver\Archiver\Archiver\obj\Debug\Archiver.csprojAssemblyReference.cache
-C:\Users\Slava\Desktop\Archiver\Archiver\Archiver\obj\Debug\Archiver.csproj.CoreCompileInputs.cache
-C:\Users\Slava\Desktop\Archiver\Archiver\Archiver\obj\Debug\Archiver.exe
-C:\Users\Slava\Desktop\Archiver\Archiver\Archiver\obj\Debug\Archiver.pdb
